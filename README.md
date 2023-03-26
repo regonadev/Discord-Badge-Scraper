@@ -23,4 +23,4 @@ A basic tool to find good badges on a Discord server.
 6. When the scanning process is finished, it will be saved with the `ID` of the server created in the `scraped` folder.
 
 
-**I'll be happy if you star this repo! ⭐ [regonadev](https://github.com/regonadev)**
+**I'll be happy if you star this repo! ⭐ [regonadev](https://github.com/regonadev)** 
