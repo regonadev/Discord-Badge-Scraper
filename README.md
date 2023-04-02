@@ -3,7 +3,7 @@
 # 🔎 - Discord Badge Scraper:
 A basic tool to find good badges on a Discord server.
 
-# 📷 - Screenshot
+# 📷 - Screenshot 
 
 ![](screenshot.png)
 
