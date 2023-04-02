@@ -16,11 +16,12 @@ A basic tool to find good badges on a Discord server.
 
 # ❓ - How to Setup ?
 1. Download .zip file.
-2. Open `config.json`
-3. Put your account token.
-4. Save your file, then execute `run.bat`.
-5. Wait till the Scrap finish.
-6. When the scanning process is finished, it will be saved with the `ID` of the server created in the `scraped` folder.
+2. Click `install.bat` and install the modules.
+3. Open `config.json`
+4. Put your account token.
+5. Save your file, then execute `run.bat`.
+6. Wait till the Scrap finish.
+7. When the scanning process is finished, it will be saved with the `ID` of the server created in the `scraped` folder.
 
 
 **I'll be happy if you star this repo! ⭐ [regonadev](https://github.com/regonadev)** 
