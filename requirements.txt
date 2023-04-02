@@ -1,0 +1,5 @@
+websocket
+threading
+time
+colorama
+pystyle
