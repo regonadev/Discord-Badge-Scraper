@@ -1,5 +1,3 @@
-websocket
-threading
-time
-colorama
-pystyle
+websocket-client==1.2.1
+colorama==0.4.4
+pystyle==1.5.5
