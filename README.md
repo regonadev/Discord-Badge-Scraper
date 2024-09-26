@@ -1,4 +1,4 @@
-##### [🌍 Discord Server](https://discord.gg/927) | [❓ Do you need help ?](https://t.me/regonaa)
+##### [❓ Do you need help ?](https://t.me/regonaa)
 
 # 🔎 - Discord Badge Scraper:
 A basic tool to find good badges on a Discord server.
